@@ -1,12 +1,14 @@
-#### Hello!, I'm Adek. 👋 
+#### Hello!, I'm Nitesh. 👋 
 :
-> Trojan Survivor
+> CORONA Survivor
 ![Header](https://pbs.twimg.com/profile_banners/566445345/1592342149/1500x500) 
 ```
-about = [     "A fan of python",       "I'm considering myself as a runner. (even tho rarely do it) xd",     "Love gaming",     "Human.",     "Still don't know how to feel about Last of Us 2 ending"
-]
+about = ["A fan of python",       "I'm considering myself as a runner. (even tho rarely do it) xd",     "Love gaming",     "Human."
+
 ``` 
-### TO-DO:
-- [ ] Rewrite [ProjectBish](https://github.com/adekmaulana/ProjectBish) into pyrogram
-- [ ] Lulus kuliah :cry:  
+### CHECK-OUT🙂:
+- [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng) 
+
+
+
 kek, Byee...
