@@ -1,11 +1,11 @@
-#### Hemllo There !, `I'm Nitesh`. 👋 
+## Hemllo There !✌️, `I'm Nitesh`.  
 :
 
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 
-# About Meh 🙂
+### AboutAbout Meh 🙂
 ```
 >Noob Learner:D
 >Fan of Python🐍
