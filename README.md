@@ -5,7 +5,7 @@
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 
-### AboutAbout Meh 🙂
+### About Meh 🙂
 ```
 >Noob Learner:D
 >Fan of Python🐍
