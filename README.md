@@ -1,14 +1,24 @@
-#### Hello!, I'm Nitesh. 👋 
+#### Hemllo There !, `I'm Nitesh`. 👋 
 :
-> CORONA Survivor
-![Header](https://pbs.twimg.com/profile_banners/566445345/1592342149/1500x500) 
-```
-about = ["A fan of python",    
-"I'm considering myself as a runner. (even tho rarely do it) xd", 
-"Love gaming", "Human."]
 
-``` 
+
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
+
+
+# About Meh 🙂
+```
+>Noob Learner:D
+>Fan of Python🐍
+>Love Gaming:)
+>Kinda into ANDROIDs
+>Cheems iz Lub XD
+```
+>#KangerXD
+
+
+
 ### CHECK-OUT🙂:
+
 - [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng) 
 
 
