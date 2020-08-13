@@ -21,6 +21,6 @@
 
 - [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng) 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niteshraj2310&repo=niteshraj2310)](https://github.com/niteshraj2310/niteshraj2310)
 
 kek, Byee...
