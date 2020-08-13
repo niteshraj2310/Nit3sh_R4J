@@ -19,8 +19,8 @@
 
 ### CHECK-OUT🙂:
 
-- [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng) 
+- [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niteshraj2310&repo=niteshraj2310)](https://github.com/niteshraj2310/niteshraj2310)
+![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
 
 kek, Byee...
