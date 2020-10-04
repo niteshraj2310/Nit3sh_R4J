@@ -23,7 +23,7 @@
 
 ![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraj2310&hide=dockerfile&theme=dark)](https://github.com/niteshraj2310)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraj2310&theme=dark)](https://github.com/niteshraj2310)
 
 ## [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-black?style=for-the-badge&logo=git&logoColor=cyan)](https://niteshraj2310.github.io)
 
